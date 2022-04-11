@@ -4,7 +4,7 @@ Mazer is a melancholy maze game build with procedural generation. You walk aroun
 
 When you are at any scene, wait for the music. It takes just a little bit of time to start. 
 
-You can literally walk around the mines, they will only explode if you are right on top of them. The map may be a little large so you can go into godot to change the camera from the player to the one I have in the Maze scene (just don't move the mouse, the game is top down but the character will still rotate around the mouse which makes it awkward to control. 
+You can literally walk around the mines, they will only explode if you are right on top of them. The map may be a little large so you can go into godot to change the camera from the player to the one I have in the Maze scene just don't move the mouse, the game is top down but the character will still rotate around the mouse which makes it awkward to control. 
 
 Key is in the top right when viewed from overhead. portal is bottom left. they are both a green color.  
 
