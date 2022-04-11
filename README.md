@@ -24,7 +24,7 @@ maze for player to navigate
 
 The key is made with CSG
 
-I have lost of Mines as enemies
+I have lots of Mines as enemies
 
 I record the player score
 
@@ -44,13 +44,15 @@ Font changed.
 
 Music for Maze, Intro, Win, and Lose senarios. 
 
-All 3d assest where made in godot (Key was made by me, portal was made by me, Mines were made by me, etc.)
+All 3d assest where made in godot (The CGS Key was made by me, portal was made by me, Mines were made by me, etc.)
 
 Shaders used for Win and lost scenes.
 
 
 ## References
 Code refrenced from Exercise 5b and Playlist advanced 
+
+Stone textures made with reference from 5c materials
 
 Wintermesh Font - https://fontesk.com/wintermesh-font/
 
