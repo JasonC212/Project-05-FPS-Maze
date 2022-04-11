@@ -2,7 +2,7 @@
 
 Mazer is a melancholy maze game build with procedural generation. You walk around mines, collet orbs and a key, and try to escape via a portal. 
 
-When you are at any scene, wait for the music. It takes just a little bit of time to start. 
+When you are at any scene, wait for the music (Inluding the Title screen). It takes just a little bit of time to start. I think you will like this music
 
 You can literally walk around the mines, they will only explode if you are right on top of them. The map may be a little large so you can go into godot to change the camera from the player to the one I have as a child of Game in the Maze scene. If you do that, just don't move the mouse. The game is top down but the character will still rotate around the mouse which makes it awkward to control. 
 
@@ -42,7 +42,7 @@ Player has health bar and status about if he has the key ("No key", or "Got the 
 
 Font changed. 
 
-Music for Maze, Intro, Win, and Lose senarios. 
+Music for Maze, Intro, Win, and Lose Scenes. 
 
 All 3d assest where made in godot (The CGS Key was made by me, portal was made by me, Mines were made by me, etc.)
 
