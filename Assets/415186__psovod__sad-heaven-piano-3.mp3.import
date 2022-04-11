@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/415186__psovod__sad-heaven-piano-3.mp3-e90a160d4baebd9b16f83eb03064dc31.mp3str"
+
+[deps]
+
+source_file="res://Assets/415186__psovod__sad-heaven-piano-3.mp3"
+dest_files=[ "res://.import/415186__psovod__sad-heaven-piano-3.mp3-e90a160d4baebd9b16f83eb03064dc31.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

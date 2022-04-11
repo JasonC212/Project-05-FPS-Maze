@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/109409__bruno-ph__sadness-cosmo.mp3-a6571c1dd0720c27553196c640a62821.mp3str"
+
+[deps]
+
+source_file="res://Assets/109409__bruno-ph__sadness-cosmo.mp3"
+dest_files=[ "res://.import/109409__bruno-ph__sadness-cosmo.mp3-a6571c1dd0720c27553196c640a62821.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/206043__thefrohman__ambiant-1.mp3-57e7c9731ad5d0cf642690f23d7c9ecb.mp3str"
+
+[deps]
+
+source_file="res://Assets/206043__thefrohman__ambiant-1.mp3"
+dest_files=[ "res://.import/206043__thefrohman__ambiant-1.mp3-57e7c9731ad5d0cf642690f23d7c9ecb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

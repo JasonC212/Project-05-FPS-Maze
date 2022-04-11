@@ -1,6 +1,7 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://Assets/Brick.tres" type="Material" id=1]
+[ext_resource path="res://Orb/Orb.tscn" type="PackedScene" id=2]
 
 [sub_resource type="CubeMesh" id=4]
 size = Vector3( 0.1, 2, 2 )
@@ -51,3 +52,6 @@ material/0 = SubResource( 11 )
 
 [node name="Ground_Collision" type="CollisionShape" parent="StaticBody"]
 shape = SubResource( 12 )
+
+[node name="Orb" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0 )

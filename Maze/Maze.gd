@@ -34,11 +34,16 @@ var tiles = [
 ]
 
 var tile_size = 2 						# 2-meter tiles
-var width = 20  						# width of map (in tiles)
-var height = 12  						# height of map (in tiles)
+var width = 30  						# width of map (in tiles)
+var height = 25  						# height of map (in tiles)
 
 func _ready():
 	randomize()
+	Global.score = 0
+	Global.update_score(0)
+	Global.health = 100
+	Global.update_health(0)
+	Global.update_key(0)
 	make_maze()
 	
 func check_neighbors(cell, unvisited):

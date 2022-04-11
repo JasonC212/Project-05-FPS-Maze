@@ -1,6 +1,7 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://Assets/Brick.tres" type="Material" id=1]
+[ext_resource path="res://Mine/Mine.tscn" type="PackedScene" id=2]
 
 [sub_resource type="CubeMesh" id=1]
 size = Vector3( 2, 2, 0.1 )
@@ -51,3 +52,5 @@ material/0 = SubResource( 11 )
 
 [node name="Ground_Collision" type="CollisionShape" parent="StaticBody"]
 shape = SubResource( 12 )
+
+[node name="Mine" parent="." instance=ExtResource( 2 )]
